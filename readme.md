@@ -25,3 +25,4 @@ __获取剧集放送状态暂未完成__
 
         $starring = $spider->get_starring();
 
+其他的都差不多。。直接看代码就好
